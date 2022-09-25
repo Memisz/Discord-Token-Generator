@@ -2,6 +2,7 @@
 This is most advanced Discord Browser Generator due to it emulating the browser and using human like behaviour. It is capable of generating Unlocked Tokens for free by Using AI. Requires proxies, works proxyless however not for long
 
 https://streamable.com/4wvhdw
+
 https://streamable.com/w9l2fz
 
 ## Features
