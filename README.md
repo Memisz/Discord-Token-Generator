@@ -22,7 +22,7 @@ https://streamable.com/w9l2fz
 python -m pip install -r requirements.txt
 playwright install
 ```
-- Once you've done that you can do this command and you're good to go
+- Once you've done that you can do this command and you're good to use it
 ```
 python main.py
 ```
