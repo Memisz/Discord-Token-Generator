@@ -123,7 +123,7 @@ class Discord:
             return
 
         self.log_output()
-        self.logger.info(f"Set Bio and ProfilePic!")
+        self.logger.info(Color.green + f"Set Bio and ProfilePic!")
 
     async def join_server(self):
         await self.page.goto("https://discord.com/channels/@me")
