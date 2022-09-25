@@ -1,4 +1,4 @@
-# Discord account/token generator [![Python 3.x](https://img.shields.io/badge/PYTHON-3.X-blueviolet?style=for-the-badge)](http://www.python.org/download/) [![MIT License](https://img.shields.io/badge/LICENSE-MIT-brightgreen?style=for-the-badge)](https://github.com/Memisz/Twitch-Viewbot/blob/main/LICENSE)
+# Discord account/token generator [![Python 3.x](https://img.shields.io/badge/PYTHON-3.X-blueviolet?style=for-the-badge)](http://www.python.org/download/) [![MIT License](https://img.shields.io/badge/LICENSE-MIT-brightgreen?style=for-the-badge)](https://github.com/Memisz/Discord-Token-Generator/blob/main/LICENSE)
 This is most advanced Discord Browser Generator due to it emulating the browser and using human like behaviour. It is capable of generating Unlocked Tokens for free by Using AI. Requires proxies, works proxyless however not for long
 
 https://streamable.com/4wvhdw
