@@ -1,4 +1,4 @@
 botright
-pygradient
+pystyles
 httpx~=0.23.0
 validators~=0.20.0
